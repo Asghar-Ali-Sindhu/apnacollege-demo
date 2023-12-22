@@ -1,4 +1,4 @@
 # apnacollege-demo
 Learning Git and Github
 <br>
-Author: Asghar Ali
+Author: Asghar Ali Sindhu
